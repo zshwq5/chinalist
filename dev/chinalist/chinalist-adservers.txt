@@ -1,14 +1,6 @@
-!--中国电信
-/clicktotal/ClickTotal.js
-||189.cn/dns/
-||jxad.jx163.com^
-!--联通
-||kdly.net^$third-party
 !--popup
-||ns112.com^$popup
-||ipvertising.com^$popup
-||creatives.livejasmin.com^$popup
 ||100tjs.com^$popup,third-party
+||114zhaofang.com^$popup,third-party
 ||116b.com^$popup,third-party
 ||234y.com^$third-party
 ||web.7k7k.com^$popup,third-party
@@ -19,6 +11,13 @@
 ||gm99.com^$popup,third-party
 ||xp3366.com^$popup,third-party
 ||xp9365.com^$popup,third-party
+!--9v
+||9vcpc.cn^$third-party
+||f.9vcpm.cn^$third-party
+||v.9vcpp.cn^$third-party
+||9vcpp.com^$third-party
+||cpm9v.cn^$third-party
+||v.cpp9v.cn^$third-party
 !--sort by domain
 ||000wan.com^$third-party
 ||007.mx^$third-party
@@ -39,6 +38,7 @@
 ||12291.com^$third-party
 ||12l22.net^$third-party
 ||155game.com^$third-party
+||16.plwan.com^
 ||17kuxun.com^$third-party
 ||js.17ol.org^$third-party
 ||1tlm.cn^$third-party
@@ -59,6 +59,7 @@
 ||2144.cn^$third-party
 ||2155ec.com^$third-party
 ||2273lm.com^$third-party
+||252d.com^
 ||25888.in^$third-party
 ||2bj.cc^$third-party
 ||3234.com^$third-party
@@ -69,7 +70,6 @@
 ||336.com^$third-party
 ||lm.35.com^$third-party
 ||360kaixin.com^$third-party
-||36500.com^$third-party
 ||365tc.com^$third-party
 ||37cs.com^$third-party
 ||37cpm.com^$third-party
@@ -82,9 +82,11 @@
 ||3975.com^$third-party
 ||3975lm.com^$third-party
 ||3gpz.net^$third-party
+||3munion.net^$third-party
 ||400or800.com^$third-party
 ||460.com.cn^$third-party
 ||4779.com^$third-party
+||49ko.com^$third-party
 ||510599.com^$third-party
 ||5151ad.com^$third-party
 ||51link.com^$third-party
@@ -94,6 +96,7 @@
 ||54kefu.net^$third-party
 ||5566ad.com^$third-party
 ||5577.com^$third-party
+||559gp.com^$third-party
 ||565882.com^$third-party
 ||58ad.org^$third-party
 ||58ar.com^$third-party
@@ -101,10 +104,12 @@
 ||un.5d6d.com^
 ||click.5j.com^$third-party
 ||5uad.com^$third-party
+||v.6.cn/coop/
 ||6721.com^$third-party
 ||6693.cc^$third-party
 ||6dad.com^$third-party
 ||6788787.com^$third-party
+||6dvip.com^
 ||70e.com^$third-party
 ||70yx.com^$third-party
 ||74lm.com^$third-party
@@ -114,6 +119,7 @@
 ||7794lm.com^$third-party
 ||77go.com^$third-party
 ||77u.com^$third-party
+||77union.cn^$third-party
 ||77zhuan.com^$third-party
 ||789un.com^$third-party
 ||7clink.com^$third-party
@@ -225,6 +231,7 @@
 ||crazymike.tw^$third-party
 ||csbew.com^$third-party
 ||ctrmi.com^$third-party
+||ctrip.com^$third-party
 ||cyacc.com^
 ||d1ad.com^$third-party
 ||d9ad.com^$third-party
@@ -241,10 +248,12 @@
 ||dmclick.cn^$third-party
 ||dotmore.com.tw^$third-party,domain=~savebar.com.tw
 ||doubleadv.com^$third-party
+||doublemax.net^$third-party
 ||u.www.duba.net^$third-party
 ||ee4kdushuba.com^$third-party
 ||eeyy.com^$third-party
 ||egooad.com^$third-party
+||elsad.tw^$third-party
 ||ems183.cn^$third-party
 ||esearches.com.tw^$third-party
 ||widget.ezprice.com.tw^$third-party
@@ -257,6 +266,7 @@
 ||feitian001.com^$third-party
 ||flashwing.net^$third-party
 ||flunion.cn^$third-party
+||fxxgw.com^$third-party
 ||game141.com^$third-party
 ||game3896.com^$third-party
 ||gamecps.com^$third-party
@@ -312,6 +322,7 @@
 ||jugao.com^$third-party
 ||junnew.com^$third-party
 ||u.juyouxi.com^$third-party
+||kairing.com^$third-party
 ||kcld.net^$third-party
 ||kejet.$third-party
 ||keydot.net^$third-party
@@ -322,6 +333,7 @@
 ||kk7kk.com^$third-party
 ||kol4399.com^$third-party
 ||koowo.com^$third-party
+||kuaiwan.com^$third-party
 ||kucent.com^$third-party
 ||kuqi.com^$third-party
 ||cluclick.leshu.com^$third-party
@@ -398,6 +410,7 @@
 ||snyu.com^$third-party
 ||soo-boo.com^$third-party
 ||soua.com^$third-party
+||sphwq.net^
 ||ssjpx.com^$third-party
 ||js.ssrj.net^$third-party
 ||star8.net^$third-party
@@ -408,10 +421,11 @@
 ||t3nlink.com^$third-party
 ||news.tagtoo.co^$third-party
 ||tajianedu.com^$third-party
-||tanx.com^$third-party,domain=~taobao.com|~tmall.com|~alimama.com|~tmall.hk
+||tanx.com^$third-party,domain=~taobao.com|~tmall.com|~alimama.com
 ||tazhao.com^$third-party
 ||tbjfw.com^$third-party
 ||tenoad.com^$third-party
+||tiaosa.cn^$third-party
 ||tjj.com^$third-party
 ||tksense.com^$third-party
 ||twcczhu.com^$third-party
@@ -421,6 +435,7 @@
 ||tuigoo.com^$third-party
 ||tuite8.com^$third-party
 ||tukj.net^$third-party
+||twb98.com^$third-party
 ||txjy2008.com^$third-party
 ||ubcpm.com^$third-party
 ||uctrac.com^$third-party
@@ -440,6 +455,7 @@
 ||unionsky2.cn^$third-party
 ||unionwk.com^$third-party
 ||unlitui.com^$third-party
+||uu06.com^$third-party
 ||img.uu1001.cn^$third-party,domain=~alimama.com|~taobao.com
 ||uu456.com^
 ||uucall.com^$third-party
@@ -457,9 +473,9 @@
 ||wangzhan5.com^$third-party
 ||wanliuliang.com^$third-party
 ||wauee.com^$third-party
-||xdwan.com^$third-party
-||phone.waystorm.com^$third-party
+||waystorm.com^$third-party
 ||web933.com^$third-party
+||weddingeeos.com^
 ||whoclick.cn^$third-party
 ||wiseie.com^$third-party
 ||wofan.net^$third-party
@@ -468,11 +484,13 @@
 ||wqzyt.net^$third-party
 ||wy31.com^$third-party
 ||wyunion.com^$third-party
+||xdwan.com^$third-party
 ||xcy8.com^
 ||xhunion.com^$third-party
 ||v.xi666.com^$third-party
 ||xiao47.com^$third-party
 ||xiaoangel.com^$third-party
+||xinwenke.com^
 ||xixianad.com^$third-party
 ||xp3366.com^$third-party
 ||xp9365.com^$third-party
@@ -512,6 +530,3 @@
 ||zhiad.com^$third-party
 ||zwads.com^$third-party
 ||zytwq.net^$third-party
-||queoh.com^$third-party
-||nywwm.com^$third-party
-||msecnd.net^$third-party

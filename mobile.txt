@@ -1,0 +1,15 @@
+127.0.0.1 img.adon.vpon.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 bs.serving-sys.com
+127.0.0.1 tw.adon.vpon.com
+127.0.0.1 media.admob.com
+127.0.0.1 tw.img.adon.vpon.com
+127.0.0.1 e.admob.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 tw.api.vpon.com
+127.0.0.1 ad.hodomobile.com
+127.0.0.1 cdn.waystorm.com
+127.0.0.1 cdn.waysmobi.com
+127.0.0.1 phone.waystorm.com
