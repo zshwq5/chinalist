@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: CLDT58LnNEGgbLeBMIcW+g
+!  Checksum: zOnhUX3lvjSPjOPGnE8hZw
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Wed, 17 Jun 2015 12:13:43 +0800
+!  Last Modified:  Wed, 24 Jun 2015 21:01:09 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -1641,6 +1641,7 @@ soku.com###ab_282
 ||ad.rrsub.net^
 ||ousns.net^
 ||rrsub.net/pic/
+||tc.cili001.com^
 zimuzu.tv###yyets_slide_ad
 zimuzu.tv##.box_4[style]
 zimuzu.tv##.games-rec-list
