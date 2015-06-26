@@ -102,6 +102,7 @@ tieba.baidu.com##[id^="game_couplet_pb_"]
 ||spcode.baidu.com^
 ||cpro.baidustatic.com^
 ||ubmcmm.baidustatic.com^
+||su.bdimg.com^
 !--iQIYI
 ||iqiyi.com/player/cupid/*/pageer.swf
 ||msg.iqiyi.com^

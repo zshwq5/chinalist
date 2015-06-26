@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: zOnhUX3lvjSPjOPGnE8hZw
+!  Checksum: AyXaF7PX23DS8zkVXCId5A
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Wed, 24 Jun 2015 21:01:09 +0800
+!  Last Modified:  Fri, 26 Jun 2015 08:55:43 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -981,6 +981,7 @@ tieba.baidu.com##[id^="game_couplet_pb_"]
 ||eiv.baidu.com^
 ||hm.baidu.com^$third-party
 ||spcode.baidu.com^
+||su.bdimg.com^
 ||ubmcmm.baidustatic.com^
 !--iQIYI
 ||iqiyi.com/player/cupid/*/pageer.swf
