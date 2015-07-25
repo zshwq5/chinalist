@@ -825,7 +825,9 @@ soku.com###ab_282
 ||rrsub.net/pic/
 ||ad.rrsub.net^
 /ctrip.$script
+||img.zimuzu.tv^$image
 zimuzu.tv/public/rooms
+zimuzu.tv###bbs_list_ad
 zimuzu.tv##.box_4[style]
 zimuzu.tv##.games-rec-list
 zimuzu.tv##.room
