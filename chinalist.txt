@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: 42Ml+3s+OIxj8R8PROZIeQ
+!  Checksum: 0jKh8UxS8MXz/8i+CYCAAA
 !
 !  Title: knight00931's list
-!  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Sat, 25 Jul 2015 16:37:46 +0800
+!  Former ChinaList by Gythialy Koo and knight00931
+!  Last Modified:  Sat, 25 Jul 2015 16:47:30 +0800
 !  coding: utf-8, expires: 2 days
 !*** chinalist-adservers.txt ***
 !--popup
