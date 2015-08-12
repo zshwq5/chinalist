@@ -7,6 +7,7 @@
 3dmgame.com##.R1
 www.3dmgame.com##.banner_1
 app01.com.tw##[class$="AD"]
+app01.com.tw##.adOursWrap
 appinn.com##.ads
 appinn.com##.ads-m
 appinn.com##.gad
