@@ -273,6 +273,8 @@ www.hexun.com##.advp
 ||blog.xuite.net/_public/js/ysmad.js
 ||town.xuite.net/_ad/
 hichannel.hinet.net##.ad
+hichannel.hinet.net##.blockOverlay
+hichannel.hinet.net##.blockPage
 
 !---环球网
 /cooperation/*$script,subdocument,domain=firefox.huanqiu.com

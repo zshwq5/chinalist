@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: 07CBpWUC2UR1AD0opn7kSw
+!  Checksum: 8AkuL2JRzLYnwpfpWWWlQQ
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Thu, 13 Aug 2015 01:04:14 +0800
+!  Last Modified:  Tue, 08 Sep 2015 19:16:41 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -1135,6 +1135,8 @@ www.hexun.com##.advp
 ||p8u.hinet.net^$popup
 ||town.xuite.net/_ad/
 hichannel.hinet.net##.ad
+hichannel.hinet.net##.blockOverlay
+hichannel.hinet.net##.blockPage
 !---环球网
 /cooperation/*$script,subdocument,domain=firefox.huanqiu.com
 ||huanqiu.com/script/HuanQiuAllBottom.Js
