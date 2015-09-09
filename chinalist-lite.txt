@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: 8AkuL2JRzLYnwpfpWWWlQQ
+!  Checksum: TtDa+rYPyWzk4gLBF/Frsw
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Tue, 08 Sep 2015 19:16:41 +0800
+!  Last Modified:  Wed, 09 Sep 2015 17:01:09 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -345,6 +345,7 @@
 ||log.hiiir.com^
 ||love12.tw^$third-party
 ||lrswl.com^$third-party
+||lx167.com^$third-party
 ||maxreturn.cn^$third-party
 ||mediav.com^$third-party
 ||meidulm.com^$third-party

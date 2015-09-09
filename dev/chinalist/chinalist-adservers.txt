@@ -341,6 +341,7 @@
 ||linekong.com^$third-party
 ||love12.tw^$third-party
 ||lrswl.com^$third-party
+||lx167.com^$third-party
 ||notice.uchome.manyou.com^
 ||maxreturn.cn^$third-party
 ||mediav.com^$third-party
