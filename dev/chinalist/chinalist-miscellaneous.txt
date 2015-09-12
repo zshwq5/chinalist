@@ -183,6 +183,7 @@ disp.cc##.ads_bot_block
 ||abc.hkepc.com^
 ||onefunnyjoke.com/wp-content/themes/$object
 onefunnyjoke.com##div[id^="fjAd-"]
+@@||24h.pchome.com.tw/pic/$image
 ||pchome.com.tw/js/PChomeFS.js
 news.pchome.com.tw###ad_bg_div
 pikolive.com###VideoAds
