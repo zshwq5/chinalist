@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: OxO2th9Lw0gqFdGxKi4yIA
+!  Checksum: zruoZra87IT5MoisdRTBdw
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Tue, 13 Oct 2015 21:01:04 +0800
+!  Last Modified:  Wed, 11 Nov 2015 00:49:44 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -820,7 +820,7 @@ zhulang.com##.coverpageadv01
 zhulang.com##[id^="adv"]
 zzzcn.com#@##adtop
 !---Miscellaneous
-@@||24h.pchome.com.tw/pic/$image
+@@||pchome.com.tw/pic/$image
 ||abc.hkepc.com^
 ||admd.yam.com^
 ||bbs.gfan.com/plugin.php?id=gfan_viewpic:gfan_adView

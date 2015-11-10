@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-!  Checksum: s2QM9F7vJE6VoeTCFAIlFw
+!  Checksum: Mkzz0QN1cMKws2S3QzsjZw
 !  Title: ChinaList Privacy
 !  Adblock Plus List with Main Focus on Chinese Sites.
-!  Last Modified:  Tue, 13 Oct 2015 21:01:05 +0800
+!  Last Modified:  Wed, 11 Nov 2015 00:49:44 +0800
 !  Homepage: http://chinalist.github.io/
 !
 !  As a supplement for EasyPrivacy,ChinaList won't provide the filters
