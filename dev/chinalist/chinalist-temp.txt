@@ -1,1 +1,2 @@
 ||scr.kaspersky-labs.com^
+@@||google-analytics.com^$domain=wikispaces.com
