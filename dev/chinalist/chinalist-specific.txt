@@ -65,6 +65,7 @@ acfun.tv###ad-comment
 
 !---Baidu
 ||baidu.com/ecom$image,script
+||dup.baidustatic.com^
 ||ecma.bdimg.com/lego-mat/$image
 ||music.baidu.com/static/html/cbjs.html
 ||news.baidu.com/nocache/mp/b.jpg

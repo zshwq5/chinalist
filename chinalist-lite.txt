@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: V1DitAey4RmR62MXpWzXxQ
+!  Checksum: M6gGwGXWjckxrZ0G3RkN3g
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Fri, 27 Nov 2015 22:01:28 +0800
+!  Last Modified:  Fri, 25 Dec 2015 16:32:05 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -875,15 +875,24 @@ subpig.net##.a_p
 ||widgetsplus.com^$third-party
 ||wumii.com^$third-party
 !--useless
+/jquery.lazyload.js
+/post-widget.js
+||apis.google.com/js/platform.js
+||apis.google.com/js/plusone.js
 ||blogger.com/navbar.g^
+||facebook.com/plugins/like
 ||google-analytics.com^$third-party,domain=~listenonrepeat.com|~blogger.com
+||platform.twitter.com/widgets.js
 ||po.st/static/$third-party
 ||pstatic.xunlei.com/js/webThunderDetect.js
 ||pushbullet.com^$third-party
 ||s.pixfs.net/common/toolbar/
 ||s.pixfs.net^*related
+||taboola.com^$third-party
+||tigerbrokers.com^$third-party
 ||ufile.qushimeiti.com/Flashget_union.php?
 ||vlog.xuite.net/_a/
+||world.yam.com/api/getTaazeBookList.php
 ||wpa.qq.com/pa?
 ||x.soso.com/js
 !*** chinalist-specific.txt ***
@@ -948,6 +957,7 @@ acfun.tv###ad-comment
 ||taobao.com/go/$third-party,domain=~tmall.com
 !---Baidu
 ||baidu.com/ecom$image,script
+||dup.baidustatic.com^
 ||ecma.bdimg.com/lego-mat/$image
 ||music.baidu.com/static/html/cbjs.html
 ||news.baidu.com/nocache/mp/b.jpg
@@ -1680,7 +1690,6 @@ pc3w.com###title_ad
 pc3w.com##table[width="925"][height="305"]
 !*** chinalist-temp.txt ***
 ||scr.kaspersky-labs.com^
-@@||google-analytics.com^$domain=wikispaces.com
 !*** chinalist-white.txt ***
 !---Shopping websites
 @@/adbanner/*$image,domain=books.com.tw
