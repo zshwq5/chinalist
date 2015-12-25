@@ -232,7 +232,7 @@ soft4fun.net##div[style="text-align: center; padding-top: 50px;"]
 ||wumii.com^$third-party
 !--useless
 /post-widget.js
-/jquery.lazyload.js
+/jquery.lazyload.js$domain=~cnbeta.com
 ||blogger.com/navbar.g^
 ||google-analytics.com^$third-party,domain=~listenonrepeat.com|~blogger.com
 ||pushbullet.com^$third-party
