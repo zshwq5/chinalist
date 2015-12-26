@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: mKPWm7IA5KBqKIC19bw35A
+!  Checksum: WKLbAJAD/2Eh3yfbUMMuZg
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Fri, 25 Dec 2015 16:42:53 +0800
+!  Last Modified:  Sun, 27 Dec 2015 00:05:00 +0800
 !  coding: utf-8, expires: 2 days
 !*** chinalist-adservers.txt ***
 !--popup
@@ -660,6 +660,7 @@ mobile01.com##a[href^="adredir.php"]
 news.cnyes.com##[class^="ad"]
 pansci.tw##div[style="float:left;width:605px;margin-bottom:12px;height:140px;"]
 pansci.tw##div[style="width:468px;height:60px;margin-left:auto;margin-right:auto;margin-top:12px;margin-bottom:6px;"]
+snbforums.com###leaderboardspacer
 ttmeiju.com##a[href^="http://www.ttmeiju.com/adclick.php?"]
 u-car.com.tw##.contad
 u-car.com.tw##.sidead_text
@@ -36240,6 +36241,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad-"]
 ||toywiz.com/lower-caption-global.html
 ||tpb.piraten.lu/static/img/bar.gif
 ||tpucdn.com/images/b/$domain=techpowerup.com
+||tpucdn.com/images/bnnrs/$domain=techpowerup.com
 ||tracking.hostgator.com^
 ||trackitdown.net/skins/*_campaign/
 ||tracksat.com^*/banners/
@@ -45997,6 +45999,7 @@ nextofwindows.com##a[href^="http://remotedesktopmanager.com/?utm_source="]
 hardwareheaven.com##a[href^="http://resources.heavenmedia.net/click_through.php?"]
 richkent.com##a[href^="http://richkent.com/uses/"]
 avxhome.se,latestgadgets.tech##a[href^="http://s.click.aliexpress.com/e/"]
+techpowerup.com##a[href^="http://scrooge.techpowerup.com/ad.php?click="]
 soundtrackcollector.com##a[href^="http://search.ebay.com/"]
 thejointblog.com##a[href^="http://sensiseeds.com/refer.asp?refid="] > img
 share-links.biz##a[href^="http://share-links.biz/redirect/"]
@@ -55861,7 +55864,6 @@ http://utm.
 ||esearchvision.com^$third-party
 ||esm1.net^$third-party
 ||esomniture.com^$third-party
-||estara.com^$third-party
 ||estrack.net^$third-party
 ||etahub.com^$third-party
 ||etherealhakai.com^$third-party
@@ -57257,7 +57259,6 @@ http://utm.
 ||alenty.com/trk/
 ||alexa.com/traffic/
 ||alicdn.com/alilog/
-||alicdn.com/sd/data_sufei/
 ||alipay.com/service/clear.png?
 ||aliyun.com/actionlog/
 ||allanalpass.com/track/
@@ -57376,7 +57377,6 @@ http://utm.
 ||atdmt.com/iaction/
 ||atdmt.com/jaction/
 ||atdmt.com/mstag/
-||atgsvcs.com/js/atgsvcs.js
 ||attributiontrackingga.googlecode.com^
 ||auctiva.com/Default.aspx?query
 ||audienceapi.newsdiscover.com.au^$third-party
@@ -57522,6 +57522,7 @@ http://utm.
 ||cloudfront.net/sentinel.js
 ||cloudfront.net/sso.js
 ||cloudfront.net/track.html
+||cloudfront.net/track?
 ||cloudfront.net/trackb.html
 ||cloudfront.net/tracker.js
 ||cm.g.doubleclick.net^
@@ -61125,6 +61126,7 @@ http://utm.
 @@||constantcontact.com/js/WebTracking/
 @@||contentdef.com/assets/common/js/google-analytics.js
 @@||coremetrics.com/eluminate.js
+@@||coremetrics.com^*/eluminate.js
 @@||count.ly^$~third-party
 @@||cqcounter.com^$domain=cqcounter.com
 @@||craveonline.com/wp-content/plugins/bwp-minify/$script
@@ -61216,6 +61218,7 @@ http://utm.
 @@||goldbet.com/Scripts/googleAnalytics.js
 @@||goldmansachs.com/a/pg/js/prod/gs-analytics-init.js
 @@||google-analytics.com/analytics.js$domain=afternic.com|amctv.com|bebo.com|ch10.co.il|cliphunter.com|daemon-tools.cc|desigual.com|gamepix.com|greentoe.com|housing.wisc.edu|infogr.am|jackbox.tv|keygames.com|manowthaimordialloc.com.au|orbitum.com|pluto.tv|rebtel.com|sbnation.com|sci2.tv|seatgeek.com|support.amd.com|tagheuer.com.au|tv10play.se|tv3play.se|tv6play.se|tv8play.se|video.pbs.org|vox.com|vpnster.com|weather.gov|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg|www.google.com
+@@||google-analytics.com/cx/api.js?experiment=$domain=foxnews.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=lovehoney.co.uk|opendns.com|openshift.com|vimeo.com|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg
 @@||google-analytics.com/plugins/ua/ec.js$domain=desigual.com|rebtel.com
 @@||google-analytics.com/plugins/ua/linkid.js$domain=bebo.com|rebtel.com|support.amd.com|vox.com
@@ -61234,7 +61237,7 @@ http://utm.
 @@||harvard.edu/scripts/ga_social_tracking.js
 @@||healthcare.gov/marketplace/*/clear.gif?
 @@||hhgregg.com/wcsstore/MadisonsStorefrontAssetStore/javascript/Analytics/AnalyticsTagDataObject.js
-@@||highcharts.com/modules/heatmap.js
+@@||highcharts.com^*/heatmap.js
 @@||hj.flxpxl.com^*.js?r=*&m=*&a=$domain=twitch.tv
 @@||hlserve.com/beacon?$domain=walmart.com
 @@||homedepot.com/static/scripts/resxclsa.js

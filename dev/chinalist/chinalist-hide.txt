@@ -31,6 +31,7 @@ mobile01.com##.admicrobtn
 mobile01.com##a[href^="adredir.php"]
 pansci.tw##div[style="float:left;width:605px;margin-bottom:12px;height:140px;"]
 pansci.tw##div[style="width:468px;height:60px;margin-left:auto;margin-right:auto;margin-top:12px;margin-bottom:6px;"]
+snbforums.com###leaderboardspacer
 ttmeiju.com##a[href^="http://www.ttmeiju.com/adclick.php?"]
 u-car.com.tw##.contad
 u-car.com.tw##.sidead_text
