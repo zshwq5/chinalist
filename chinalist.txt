@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: WKLbAJAD/2Eh3yfbUMMuZg
+!  Checksum: HjaHLRmf7L81aMe5PdVudw
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Sun, 27 Dec 2015 00:05:00 +0800
+!  Last Modified:  Sun, 27 Dec 2015 00:15:21 +0800
 !  coding: utf-8, expires: 2 days
 !*** chinalist-adservers.txt ***
 !--popup
@@ -660,7 +660,7 @@ mobile01.com##a[href^="adredir.php"]
 news.cnyes.com##[class^="ad"]
 pansci.tw##div[style="float:left;width:605px;margin-bottom:12px;height:140px;"]
 pansci.tw##div[style="width:468px;height:60px;margin-left:auto;margin-right:auto;margin-top:12px;margin-bottom:6px;"]
-snbforums.com###leaderboardspacer
+smallnetbuilder.com,snbforums.com###leaderboardspacer
 ttmeiju.com##a[href^="http://www.ttmeiju.com/adclick.php?"]
 u-car.com.tw##.contad
 u-car.com.tw##.sidead_text
