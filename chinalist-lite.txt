@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: XceQ1YBCBDzUczt6u1Uvzg
+!  Checksum: oKfWgf9Jhy8/TzOqQrxKTA
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Sun, 27 Dec 2015 00:15:19 +0800
+!  Last Modified:  Tue, 05 Jan 2016 15:35:37 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -1692,6 +1692,7 @@ pc3w.com##table[width="925"][height="305"]
 !*** chinalist-temp.txt ***
 ||scr.kaspersky-labs.com^
 !*** chinalist-white.txt ***
+@@||google-analytics.com^$domain=wikispaces.com
 !---Shopping websites
 @@/adbanner/*$image,domain=books.com.tw
 !------------------------End of List-------------------------

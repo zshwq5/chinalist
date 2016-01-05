@@ -1,2 +1,3 @@
+@@||google-analytics.com^$domain=wikispaces.com
 !---Shopping websites
 @@/adbanner/*$image,domain=books.com.tw
