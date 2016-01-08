@@ -234,6 +234,7 @@ soft4fun.net##div[style="text-align: center; padding-top: 50px;"]
 /post-widget.js
 /jquery.lazyload.js$domain=~cnbeta.com
 ||blogger.com/navbar.g^
+||widget.crowdynews.com^$third-party
 ||google-analytics.com^$third-party,domain=~listenonrepeat.com|~blogger.com
 ||pushbullet.com^$third-party
 ||ufile.qushimeiti.com/Flashget_union.php?

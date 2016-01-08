@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: oKfWgf9Jhy8/TzOqQrxKTA
+!  Checksum: 3Xud9zwKThhSo6uL/GAeig
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Tue, 05 Jan 2016 15:35:37 +0800
+!  Last Modified:  Sat, 09 Jan 2016 00:59:27 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -893,6 +893,7 @@ subpig.net##.a_p
 ||tigerbrokers.com^$third-party
 ||ufile.qushimeiti.com/Flashget_union.php?
 ||vlog.xuite.net/_a/
+||widget.crowdynews.com^$third-party
 ||world.yam.com/api/getTaazeBookList.php
 ||wpa.qq.com/pa?
 ||x.soso.com/js
