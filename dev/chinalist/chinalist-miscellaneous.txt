@@ -20,10 +20,6 @@ steachs.com###banner
 ||vdisk.cn/img/
 
 !---Game Sites
-/baha/*$subdocument,domain=gamer.com.tw
-/gamer/*$subdocument,domain=gamer.com.tw
-.html|$domain=www.gamer.com.tw
-gamer.com.tw###BH-ad_banner
 ||ngacn.cc/common_res/js_adscommon.js
 
 !---Net Disks

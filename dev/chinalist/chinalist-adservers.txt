@@ -131,6 +131,7 @@
 ||87ie.com^$third-party
 ||88210212.com^$third-party
 ||8888mmm.com^$third-party
+||8kele.com^$third-party
 ||8le8le.com^$third-party
 ||8peng.com^$third-party
 ||90hao.com^$third-party

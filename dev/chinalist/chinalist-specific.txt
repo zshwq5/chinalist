@@ -236,6 +236,15 @@ focus.cn##.ad
 ||vas.funshion.com^
 funshion.com##[class^="fs2012-"]
 
+!---巴哈姆特 
+/baha/*$subdocument,domain=gamer.com.tw
+/gamer/*$subdocument,domain=gamer.com.tw
+.html|$domain=www.gamer.com.tw
+||bahamut.com.tw/b/2KU/
+gamer.com.tw###BH-ad_banner
+gamer.com.tw###BH-bigbanner
+gamer.com.tw###flyRightBox
+
 !---游民星空
 ||gamersky.com^$subdocument
 ||gamersky.com/img/

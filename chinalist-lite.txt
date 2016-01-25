@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: 3Xud9zwKThhSo6uL/GAeig
+!  Checksum: WqfFle2LJtBKgh4INfL1BA
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Sat, 09 Jan 2016 00:59:27 +0800
+!  Last Modified:  Mon, 25 Jan 2016 22:19:46 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -132,6 +132,7 @@
 ||87ie.com^$third-party
 ||88210212.com^$third-party
 ||8888mmm.com^$third-party
+||8kele.com^$third-party
 ||8le8le.com^$third-party
 ||8peng.com^$third-party
 ||90hao.com^$third-party
@@ -670,11 +671,7 @@ steachs.com###banner
 ||shooter.cn/a/img/prom/
 ||vdisk.cn/img/
 !---Game Sites
-.html|$domain=www.gamer.com.tw
-/baha/*$subdocument,domain=gamer.com.tw
-/gamer/*$subdocument,domain=gamer.com.tw
 ||ngacn.cc/common_res/js_adscommon.js
-gamer.com.tw###BH-ad_banner
 !---Net Disks
 ||hiad.vmall.com^
 ||log.vdisk.cn^
@@ -1114,6 +1111,14 @@ focus.cn##.ad
 ||adm.funshion.com^
 ||vas.funshion.com^
 funshion.com##[class^="fs2012-"]
+!---巴哈姆特 
+.html|$domain=www.gamer.com.tw
+/baha/*$subdocument,domain=gamer.com.tw
+/gamer/*$subdocument,domain=gamer.com.tw
+||bahamut.com.tw/b/2KU/
+gamer.com.tw###BH-ad_banner
+gamer.com.tw###BH-bigbanner
+gamer.com.tw###flyRightBox
 !---游民星空
 ||gamersky.com/img/
 ||gamersky.com/piaofu*/
