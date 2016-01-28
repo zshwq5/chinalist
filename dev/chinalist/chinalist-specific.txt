@@ -237,13 +237,15 @@ focus.cn##.ad
 funshion.com##[class^="fs2012-"]
 
 !---巴哈姆特 
+@@||truth.bahamut.com.tw/s01/s$image
+|http://*/ad/$domain=gamer.com.tw
 /baha/*$subdocument,domain=gamer.com.tw
 /gamer/*$subdocument,domain=gamer.com.tw
 .html|$domain=www.gamer.com.tw
-||bahamut.com.tw^*/ad/
 ||bahamut.com.tw^*/2KU/*?v=
-gamer.com.tw###BH-ad_banner
-gamer.com.tw###flyRightBox
+||truth.bahamut.com.tw/s01/$image
+||bahamut.com.tw/S/2KU/47/
+gamer.com.tw###BH-bigbanner > div
 
 !---游民星空
 ||gamersky.com^$subdocument
