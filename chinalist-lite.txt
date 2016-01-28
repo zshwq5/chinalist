@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: HMEYyInEF5RDZOSEP9BsEw
+!  Checksum: YT3zM9Ak8kXWQk6NfiDyOg
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Thu, 28 Jan 2016 23:14:50 +0800
+!  Last Modified:  Thu, 28 Jan 2016 23:31:02 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -1115,12 +1115,9 @@ funshion.com##[class^="fs2012-"]
 .html|$domain=www.gamer.com.tw
 /baha/*$subdocument,domain=gamer.com.tw
 /gamer/*$subdocument,domain=gamer.com.tw
-@@||truth.bahamut.com.tw/s01/s$image
 ||bahamut.com.tw/S/2KU/47/
 ||bahamut.com.tw^*/2KU/*?v=
-||truth.bahamut.com.tw/s01/$image
 |http://*/ad/$domain=gamer.com.tw
-gamer.com.tw###BH-bigbanner > div
 !---游民星空
 ||gamersky.com/img/
 ||gamersky.com/piaofu*/
