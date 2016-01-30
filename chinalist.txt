@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: S1NnEhdPFOfCtA5a9cC7iw
+!  Checksum: u/7+nJtRwToiVfzQvBgf7A
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Thu, 28 Jan 2016 23:31:04 +0800
+!  Last Modified:  Sat, 30 Jan 2016 16:56:51 +0800
 !  coding: utf-8, expires: 2 days
 !*** chinalist-adservers.txt ***
 !--popup
@@ -1166,6 +1166,7 @@ funshion.com##[class^="fs2012-"]
 /gamer/*$subdocument,domain=gamer.com.tw
 ||bahamut.com.tw/S/2KU/47/
 ||bahamut.com.tw^*/2KU/*?v=
+||truth.bahamut.com.tw/s01/$image,domain=www.gamer.com.tw
 |http://*/ad/$domain=gamer.com.tw
 !---游民星空
 ||gamersky.com/img/
@@ -19570,6 +19571,7 @@ _popunder+$popup
 ##.advLeaderboard
 ##.advSquare
 ##.advText
+##.advTicker
 ##.advVideobox
 ##.advWrappers
 ##.adv_1
@@ -44186,7 +44188,7 @@ cargurus.com##.leaderboardParent
 japantoday.com##.leaderboard_banner
 bestcovery.com##.leaderboard_block
 vibevixen.com##.leaderboard_bottom
-lookbook.nu,todaysbigthing.com##.leaderboard_container
+autosport.com,lookbook.nu,todaysbigthing.com##.leaderboard_container
 tucsoncitizen.com##.leaderboard_container_top
 directupload.net##.leaderboard_rectangle
 porttechnology.org,realworldtech.com,rottentomatoes.com##.leaderboard_wrapper
@@ -54506,6 +54508,7 @@ www.google.com#@##videoads
 /imgcount.cgi?
 /imgcount.php?
 /imgtracker.
+/imp.aspx?
 /imp.gif?
 /imp.php?a
 /imp/a.gif?
