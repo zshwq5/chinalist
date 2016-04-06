@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: QCBBZei7zWOYGFdQYQdaFw
+!  Checksum: Q+HNVFYfebWAzao5uRXAdw
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Sat, 30 Jan 2016 16:56:37 +0800
+!  Last Modified:  Thu, 07 Apr 2016 07:55:07 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -682,9 +682,12 @@ colafile.com##.tui
 dl.vmall.com###filelist_marker
 !---News Sites
 ||businessweekly.com.tw/event/$subdocument
+||cnbeta.com/assets/js/pages/needhelp.js
 ||job.cnbeta.com/jobs/
 ||newtalk.tw/media/ad/
+cnbeta.com##.main_content + .mt5
 cnbeta.com##.other_news
+cnbeta.com##.time
 newtalk.tw###ad_top_banner
 newtalk.tw##.ind_news_station
 !---Online Novel/Comic Sites

@@ -34,7 +34,10 @@ dl.vmall.com###filelist_marker
 !---News Sites
 ||businessweekly.com.tw/event/$subdocument
 ||job.cnbeta.com/jobs/
+||cnbeta.com/assets/js/pages/needhelp.js
+cnbeta.com##.main_content + .mt5
 cnbeta.com##.other_news
+cnbeta.com##.time
 ||newtalk.tw/media/ad/
 newtalk.tw###ad_top_banner
 newtalk.tw##.ind_news_station
