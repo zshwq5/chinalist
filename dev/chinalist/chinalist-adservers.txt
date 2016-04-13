@@ -161,6 +161,7 @@
 ||aifei.info^$third-party
 ||ad8.cc^$third-party
 ||adhai.com^$third-party
+||adhouyi.com^$third-party
 ||adjwl.com^$third-party
 ||adkongjian.com^$third-party
 ||admaster.com.cn^$third-party

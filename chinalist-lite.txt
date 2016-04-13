@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: Q+HNVFYfebWAzao5uRXAdw
+!  Checksum: C8Sqc3gSS3P0AbgpW/B85g
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Thu, 07 Apr 2016 07:55:07 +0800
+!  Last Modified:  Wed, 13 Apr 2016 19:51:34 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -159,6 +159,7 @@
 ||ad8.cc^$third-party
 ||adcenter.conn.tw^$third-party
 ||adhai.com^$third-party
+||adhouyi.com^$third-party
 ||adjwl.com^$third-party
 ||adkongjian.com^$third-party
 ||admaji.com^$third-party
