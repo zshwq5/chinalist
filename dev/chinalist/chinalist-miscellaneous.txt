@@ -41,6 +41,13 @@ cnbeta.com##.time
 ||newtalk.tw/media/ad/
 newtalk.tw###ad_top_banner
 newtalk.tw##.ind_news_station
+!-postdoc
+||tenmax-static.cacafly.net/ssp/adsbytenmax.js
+||static.ettoday.net/style/video-ad/$~stylesheet
+||ettoday.net/style/hot-trip/js/travel-action.js
+ettoday.net##.customizeline
+ck101.com##[id^="image_ad"]
+
 
 !---Online Novel/Comic Sites
 @@/configs/article/bottom.js
