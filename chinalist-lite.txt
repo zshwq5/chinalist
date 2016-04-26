@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: o/N8VfeaTAfhGz7BbpGQ1A
+!  Checksum: USRaeXFQTnY11Dk2CiEqoQ
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Tue, 26 Apr 2016 11:07:17 +0800
+!  Last Modified:  Tue, 26 Apr 2016 11:15:00 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -691,12 +691,13 @@ cnbeta.com##.other_news
 cnbeta.com##.time
 newtalk.tw###ad_top_banner
 newtalk.tw##.ind_news_station
-!-postdoc
+!-customized
 ||ettoday.net/style/hot-trip/js/travel-action.js
 ||static.ettoday.net/style/video-ad/$~stylesheet
 ||tenmax-static.cacafly.net/ssp/adsbytenmax.js
 ck101.com##[id^="image_ad"]
 ettoday.net##.customizeline
+ettoday.net##.etvideo_collect_1
 !---Online Novel/Comic Sites
 /configs/article/*$script,subdocument
 /configs/article/gggg/*
