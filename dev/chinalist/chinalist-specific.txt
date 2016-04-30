@@ -843,7 +843,10 @@ zimuzu.tv/public/rooms
 zimuzu.tv###bbs_list_ad
 zimuzu.tv##.box_4[style]
 zimuzu.tv##.games-rec-list
+zimuzu.tv###loading_back
+zimuzu.tv###loading_pic
 zimuzu.tv##.room
+zimuzu.tv##.rrmj_ad
 zimuzu.tv###yyets_slide_ad
 
 !---ZOL

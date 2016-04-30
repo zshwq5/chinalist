@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: USRaeXFQTnY11Dk2CiEqoQ
+!  Checksum: JvFnwle8dTQUp6ipc+ytYA
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Tue, 26 Apr 2016 11:15:00 +0800
+!  Last Modified:  Sat, 30 Apr 2016 13:24:23 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -897,6 +897,7 @@ subpig.net##.a_p
 ||pushbullet.com^$third-party
 ||s.pixfs.net/common/toolbar/
 ||s.pixfs.net^*related
+||sinajs.cn/open/api/$third-party
 ||taboola.com^$third-party
 ||tigerbrokers.com^$third-party
 ||ufile.qushimeiti.com/Flashget_union.php?
@@ -1679,10 +1680,13 @@ soku.com###ab_282
 ||rrsub.net/pic/
 ||tc.cili001.com^
 zimuzu.tv###bbs_list_ad
+zimuzu.tv###loading_back
+zimuzu.tv###loading_pic
 zimuzu.tv###yyets_slide_ad
 zimuzu.tv##.box_4[style]
 zimuzu.tv##.games-rec-list
 zimuzu.tv##.room
+zimuzu.tv##.rrmj_ad
 zimuzu.tv/public/rooms
 !---ZOL
 ||ca.cbsi.com.cn/rpv?

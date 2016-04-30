@@ -252,6 +252,7 @@ soft4fun.net##div[style="text-align: center; padding-top: 50px;"]
 ||s.pixfs.net/common/toolbar/
 ||s.pixfs.net^*related
 ||wpa.qq.com/pa?
+||sinajs.cn/open/api/$third-party
 ||x.soso.com/js
 ||platform.twitter.com/widgets.js
 ||taboola.com^$third-party
