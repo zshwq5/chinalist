@@ -239,7 +239,7 @@ soft4fun.net##div[style="text-align: center; padding-top: 50px;"]
 ||wumii.com^$third-party
 !--useless
 /post-widget.js
-/jquery.lazyload.js$domain=~cnbeta.com
+/jquery.lazyload.js$domain=~cnbeta.com|~lativ.com.tw
 ||blogger.com/navbar.g^
 ||widget.crowdynews.com^$third-party
 ||google-analytics.com^$third-party,domain=~listenonrepeat.com|~blogger.com
