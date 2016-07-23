@@ -248,6 +248,7 @@ soft4fun.net##div[style="text-align: center; padding-top: 50px;"]
 ||facebook.com/plugins/like
 ||apis.google.com/js/plusone.js
 ||apis.google.com/js/platform.js
+||widgets.outbrain.com^$third-party
 ||po.st/static/$third-party
 ||s.pixfs.net/common/toolbar/
 ||s.pixfs.net^*related
