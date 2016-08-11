@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: IY/M+Z+S9HUHLGnjT9HVTQ
+!  Checksum: HpNeyPYr2jHs5drg2R0lmw
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Sun, 24 Jul 2016 04:22:30 +0800
+!  Last Modified:  Thu, 11 Aug 2016 21:20:03 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -286,6 +286,7 @@
 ||gsdwj.com^$third-party
 ||guobie.com^$third-party
 ||guoshipartners.com^$third-party
+||haiyunx.com^$third-party
 ||hauchi.com.tw^$third-party
 ||hdtworld.com^$third-party
 ||heima8.com^$third-party
