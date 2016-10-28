@@ -258,6 +258,7 @@ soft4fun.net##div[style="text-align: center; padding-top: 50px;"]
 ||platform.twitter.com/widgets.js
 ||taboola.com^$third-party
 ||tigerbrokers.com^$third-party
+@@||imasdk.googleapis.com/js/sdkloader/$script,domain=vlog.xuite.net
 ||vlog.xuite.net/_a/
 ||pstatic.xunlei.com/js/webThunderDetect.js
 ||world.yam.com/api/getTaazeBookList.php
