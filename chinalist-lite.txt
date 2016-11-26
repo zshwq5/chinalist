@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: aiVhhm/qjmG28sxaVCnUiQ
+!  Checksum: PNwEYlU1tUYpuDPU65Wn7g
 !
 !  Title: knight00931's list
 !  Former ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Sun, 27 Nov 2016 00:33:49 +0800
+!  Last Modified:  Sun, 27 Nov 2016 01:46:51 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--popup
@@ -629,6 +629,7 @@ ck101.com###portal_block_563
 coolapk.com##.ga200
 facebook.com###pagelet_ego_pane
 facebook.com##.userContentWrapper:has(._5g-l)
+facebook.com##.userContentWrapper:has(.uiStreamAdditionalLogging)
 facebook.com##data-xt
 freegroup.org##.ad-box
 freegroup.org##div[style^="width:336px; height:280px;"]
