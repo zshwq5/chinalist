@@ -17,6 +17,9 @@ hornydragon.blogspot.com,hornydragon.blogspot.tw###HTML13
 briian.com###content > div:nth-of-type(2) > P
 news.cnyes.com##[class^="ad"]
 coolapk.com##.ga200
+facebook.com##data-xt
+facebook.com###pagelet_ego_pane
+facebook.com##.userContentWrapper:has(._5g-l)
 freegroup.org##.ad-box
 freegroup.org##div[style^="width:336px; height:280px;"]
 fun698.com##table[width="958"]
